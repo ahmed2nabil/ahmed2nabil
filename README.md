@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-####  I’m Nabil — a full stack developer (currently frontend-focused) focused on building clean, fast, and user-friendly web applications with Angular, Node.js, and MongoDB. also I like writing C/C++ 😄
+####  I’m Nabil — a full stack developer focused on building clean, fast, and user-friendly web applications with Angular, Node.js, and MongoDB. also I like writing C/C++ 😄
 
 ### Languages
 
